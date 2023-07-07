@@ -9,13 +9,13 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    let flight:String? = ""
+    var jet:String? = ""
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         print("this is initial commite")
-        
-        flight = "airIndia"
+
+        jet = "airIndia"
         
         print("this is second commit")
     }
