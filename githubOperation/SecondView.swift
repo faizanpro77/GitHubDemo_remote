@@ -9,8 +9,9 @@ import Foundation
  
 class SecondView {
     
-    func testBranch() {
+    func testRemoteBranch() {
         print("testing test branch local")
+        print("test branch remote")
     }
     
 }
