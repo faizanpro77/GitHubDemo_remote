@@ -14,7 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         print("this is initial commite")
-
+        view.backgroundColor = .red
         jet = "airIndia"
         
         print("this is second commit")
