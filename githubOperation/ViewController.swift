@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+        print("faizan")
         print("this is initial commite")
         view.backgroundColor = .red
         jet = "airIndia"
